@@ -1,0 +1,18 @@
+SMAP
+listCollaterals_jsp.java
+JSP
+*S JSP
+*F
++ 0 listCollaterals.jsp
+listCollaterals.jsp
+*L
+5,14:46
+19:60,10
+20,13:70
+33,4:84
+36,2:88
+38,8:90,3
+46,3:114
+49,2:118
+50,9:120
+*E
